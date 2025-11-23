@@ -1,0 +1,12 @@
+langchain
+streamlit
+gradio
+unstructured
+pdf2image
+pdfminer
+PyPDF2
+sentence-transformers
+transformers
+accelerate
+ipykernel
+langchain_community
